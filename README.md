@@ -3,4 +3,4 @@ In this application I have explored some new insights in UI also the way the cod
 <br/>
 Following are the images of the UserInterface:
 <br>
-<img src = "github_readme_images/home_page.jpg" height = "400">
+<img src = "github_readme_images/home_page.jpg" height = "500">
