@@ -5,5 +5,4 @@ In this application I have explored some new insights in UI also the way the cod
 Following are the images of the UserInterface:
 <br><br>
 <img src = "github_readme_images/home_page.jpg" height = "500">
-
 <img src = "github_readme_images/detailed_screen.jpg" height = "500">
